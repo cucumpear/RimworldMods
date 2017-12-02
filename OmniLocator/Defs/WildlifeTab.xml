@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <MainButtonDefs>
 
-  <MainButtonDef>
+  <Def>
     <defName>Lincore_WildlifeTab</defName>
     <label>wildlife</label>
     <description>Find alpha beavers and other wildlife</description>
@@ -9,4 +9,4 @@
     <order>43</order>
   </MainButtonDef>
   
-</MainButtonDefs>
+</Defs>
